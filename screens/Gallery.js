@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
     imageGalery: {
         marginTop: 10,
         margin: 5,
-        width: Dimensions.get('window').width / 3 - 10, // розрахунок ширини для відображення по три в рядку
+        width: Dimensions.get('window').width / 3 - 10, 
         aspectRatio: 1,
     },
 });
@@ -38,7 +38,6 @@ const Gallery = () => {
 
     return (
         <ScrollView contentContainerStyle={styles.containerGallery}>
-            {/* Розділити масив на групи по три та вивести */}
             {chunkArray(images, 3).map((row, rowIndex) => (
                 <View key={rowIndex} style={{ flexDirection: 'row' }}>
                     {row.map(item => (

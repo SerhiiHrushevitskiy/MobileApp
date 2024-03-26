@@ -30,8 +30,12 @@ const User = () => {
     const [firstName, setFirstName] = useState('');
   
     const handleRegister = () => {
-      console.log('Реєстрація користувача...');
+        setPassword("");
+        setEmail("");
+        setLastName("");
+        setFirstName("");
     };
+    
     return (
       <>
          <View style={styles.container}>

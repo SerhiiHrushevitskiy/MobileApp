@@ -56,7 +56,7 @@ const Home = () => {
           <View style={styles.newsTextContainer}>
             <Text style={styles.newsTitle}>{item.title}</Text>
             <Text style={styles.newsDate}>{item.date}</Text>
-            <Text numberOfLines={2} style={styles.newsExcerpt}>{item.excerpt}</Text>
+            <Text style={styles.newsExcerpt}>{item.excerpt}</Text>
           </View>
         </View>
       ))}
