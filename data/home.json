@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "title": "Новина 1",
+      "date": "2024-03-26",
+      "excerpt": "Короткий текст новини 1...",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": 2,
+      "title": "Новина 2",
+      "date": "2024-03-25",
+      "excerpt": "Короткий текст новини 2...",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": 3,
+      "title": "Новина 3",
+      "date": "2024-03-24",
+      "excerpt": "Короткий текст новини 3...",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": 4,
+      "title": "Новина 4",
+      "date": "2024-03-23",
+      "excerpt": "Короткий текст новини 4...",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": 5,
+      "title": "Новина 5",
+      "date": "2024-03-22",
+      "excerpt": "Короткий текст новини 5...",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": 6,
+      "title": "Новина 6",
+      "date": "2024-03-21",
+      "excerpt": "Короткий текст новини 6...",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": 7,
+      "title": "Новина 7",
+      "date": "2024-03-20",
+      "excerpt": "Короткий текст новини 7...",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": 8,
+      "title": "Новина 8",
+      "date": "2024-03-19",
+      "excerpt": "Короткий текст новини 8...",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": 9,
+      "title": "Новина 9",
+      "date": "2024-03-18",
+      "excerpt": "Короткий текст новини 9...",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": 10,
+      "title": "Новина 10",
+      "date": "2024-03-17",
+      "excerpt": "Короткий текст новини 10...",
+      "image": "https://via.placeholder.com/100"
+    }
+  ]
